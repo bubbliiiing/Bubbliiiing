@@ -10,5 +10,5 @@
 - 🥩 想吃但是更想瘦
 - 📯 我的哔哩哔哩空间（Bilibili Video） https://space.bilibili.com/472467171
 - 📚 我的CSDN博客（CSDN Blog） https://blog.csdn.net/weixin_44791964
-- 📜 我的微信公众号（Wechat Official Accounts） [Bubbliiiing的深度学习小课堂](https://github.com/bubbliiiing/Bubbliiiing/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
-![微信公众号](https://github.com/bubbliiiing/Bubbliiiing/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+- 📜 我的微信公众号（Wechat Official Accounts） [Bubbliiiing的深度学习小课堂](https://github.com/bubbliiiing/Bubbliiiing/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)  
+<img src="https://github.com/bubbliiiing/Bubbliiiing/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="100px">
