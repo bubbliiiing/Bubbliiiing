@@ -6,8 +6,7 @@
 
 ### Hi，很高兴遇见你 👋
 
-- 🧡 专注于深度学习
-- 💛 Focusing on Deep Learning
+- 🧡 专注于深度学习 Focusing on Deep Learning
 - 🔨 复现各类深度学习算法，主要集中于图像，但属于NLP编外人员
 - 🍬 期待可以去海边旅游
 - 🥩 想吃但是更想瘦
